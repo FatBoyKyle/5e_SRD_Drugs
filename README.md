@@ -1,5 +1,5 @@
 # 5e_SRD_Drugs
-Sharing drugs across your shadowrun games
+Sharing drugs across your Foundry VTT Shadowrun 5th Edition Games.
 
 Version: 1.0.0
 Release date: 04/04/2023
